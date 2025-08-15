@@ -12,5 +12,5 @@ iii.   Git: For cloning the repository.
 
 iv.    Web Browser: Chrome, Firefox, or Edge.
 
-v.     WebDriver: The appropriate WebDriver executable for your browser (e.g., chromedriver.exe). You can include a note on how Selenium Manager now handles this automatically in newer versions.
+v.     WebDriver: The appropriate WebDriver executable for your browser (e.g., chromedriver.exe).
 
