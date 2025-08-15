@@ -1,6 +1,5 @@
 Project Title:  Formy Automation Project
 
-Introduction
 This project contains automated test cases for the Formy web application. It uses Selenium WebDriver with Java to automate interactions with various web elements like forms, dropdowns, and file uploads. The tests are built with JUnit and managed by Maven.
 
 Prerequisites
